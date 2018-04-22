@@ -1,0 +1,24 @@
+{
+    "111": {
+        "name": "Indian",
+        "recipe_count": 2,
+        "recipes": {
+            "aaa": true,
+            "bbb": true
+        }
+    },
+    "222": {
+        "name": "Japanese",
+        "recipe_count": 1,
+        "recipes": {
+            "bbb": true
+        }
+    },
+    "333": {
+        "name": "Indian",
+        "recipe_count": 1,
+        "recipes": {
+            "ccc": true
+        }
+    }
+}

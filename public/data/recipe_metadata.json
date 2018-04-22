@@ -1,0 +1,39 @@
+{
+    "aaa": {
+        "title": "Eggplant Masala",
+        "categories": {
+            "111": true
+        },
+        "tags": {
+            "zzz": true
+        },
+        "rating": 2,
+        "speed": 3,
+        "cost": 1
+    },
+    "bbb": {
+        "title": "Japanese Curry",
+        "categories": {
+            "111": true,
+            "222": true
+        },
+        "tags": {
+            "zzz": true
+        },
+        "rating": 2,
+        "speed": 3,
+        "cost": 1
+    },
+    "ccc": {
+        "title": "Chilli Sin Carne",
+        "categories": {
+            "333": true
+        },
+        "tags": {
+            "zzz": true
+        },
+        "rating": 2,
+        "speed": 3,
+        "cost": 1
+    }
+}

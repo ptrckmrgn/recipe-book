@@ -47,10 +47,10 @@ class ListItem extends Component {
         `;
 
         return (
-            <Wrapper>
+            <Wrapper onClick={() => this.props.onClick(this.props.id)}>
                 <div>
                     <Title>{this.props.title}</Title>
-                    <Subtitle>{this.props.count} recipes</Subtitle>
+                    <Subtitle>{this.props.subtitle}</Subtitle>
                 </div>
                 <Arrow></Arrow>
             </Wrapper>
